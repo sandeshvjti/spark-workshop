@@ -63,5 +63,5 @@ sudo debconf-set-selections <<< 'mysql-server mysql-server/root_password passwor
 sudo debconf-set-selections <<< 'mysql-server mysql-server/root_password_again password mypassword'
 sudo apt-get -y install mysql-server
 sudo apt-get -y install libmysql-java
-
+sudo apt-get -y install gradle
 
