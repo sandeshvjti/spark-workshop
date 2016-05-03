@@ -1,5 +1,7 @@
 # spark-workshop
 
+git clone https://github.com/sandeshvjti/spark-workshop.git
+
 * Non-ubuntu users follow below mentioned steps
 
 1) Open terminal window.Go to folder spark-workshop
