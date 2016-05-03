@@ -1,6 +1,6 @@
 # spark-workshop
 
-* Non-ubuntu users run follow below mentioned steps
+* Non-ubuntu users follow below mentioned steps
 
 1) Open terminal window.Go to folder spark-workshop
 
